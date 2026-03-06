@@ -1,8 +1,8 @@
 const expertise = [
   {
     id: 0,
-    title: "Frontend Engineer",
-    desc: "I am a seasoned React and Next.js developer with 3+ years of experience in crafting seamless user interfaces and dynamic web applications. I specialize in building visually appealing, high-performance applications using React's component-based architecture and Next.js's server-side rendering capabilities. With a strong focus on API integration, I ensure efficient communication between frontend and backend systems. My commitment to code quality, performance optimization, and user-centered design drives the success of every project.",
+    title: "Associate Software Engineer",
+    desc: "I am a seasoned React and Next.js developer with 2+ years of experience in crafting seamless user interfaces and dynamic web applications. I specialize in building visually appealing, high-performance applications using React's component-based architecture and Next.js's server-side rendering capabilities. With a strong focus on API integration, I ensure efficient communication between frontend and backend systems. My commitment to code quality, performance optimization, and user-centered design drives the success of every project.",
   },
   {
     id: 1,

@@ -167,19 +167,7 @@ const skills = [
     description:
       "Basic knowledge of backend development and server-side logic with Node Js and Express JS.",
   },
-  {
-    id: 12,
-    techName: "WordPress Developer",
-    url: "https://644a86b90b7aea042688fb66--effulgent-torrone-565a9a.netlify.app/",
-    image: "skills/wordpress.jpg",
-    skill: [
-      {
-        title: "WordPress Developer",
-        level: "80%",
-      },
-    ],
-    description: "Experienced in creating and customizing WordPress websites.",
-  },
+ 
 ];
 
 export default function handler(req, res) {

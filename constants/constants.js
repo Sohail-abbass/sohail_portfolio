@@ -1,15 +1,23 @@
 export const NAME = "Muhammad Sohail";
 
-export const DESIGNATION = `Front End Engineer | React Js | Next Js | JavaScript | TypeScript`;
+export const DESIGNATION = `Software Engineer | JavaScript | TypeScript| Python | React Js | Next Js | `;
 
 export const DETAILS = {
-  Residence: "Bahawalpur, Punjab",
+  Residence: "Islamabad, Punjab",
   Nationality: "Pakistani",
-  City: "Bahawalpur",
+  City: "Islamabad",
   Age: "24",
 };
 
 export const SKILLS = [
+    {
+    title: "Javascript / Typescript",
+    level: "90%",
+  },
+   {
+    title: "Python",
+    level: "90%",
+  },
   {
     title: "React Js",
     level: "95%",
@@ -18,9 +26,9 @@ export const SKILLS = [
     title: "Next Js",
     level: "80%",
   },
-  {
-    title: "Javascript / Typescript",
-    level: "90%",
+    {
+    title: "Pandas, Numpy, Matplotlib, TensorFlow, Scikit-learn",
+    level: "96%",
   },
   {
     title: "HTML, CSS",
@@ -30,10 +38,7 @@ export const SKILLS = [
     title: "Tailwind, Bootstrap, Module.css,Antd",
     level: "96%",
   },
-  {
-    title: "Next UI, Material UI, SCSS, Styled Components",
-    level: "85%",
-  },
+ 
   {
     title: "Context, Redux, Redux toolkit,MobX",
     level: "90%",
@@ -66,6 +71,7 @@ export const TECH_STACK = [
   "NextJS",
   "JavaScript",
   "TypeScript",
+    "Python",
   "CSS",
   "SCSS",
   "TailwindCSS",
@@ -84,9 +90,7 @@ export const TECH_STACK = [
   "FireBase",
   "Postman",
   "Swagger",
-  "Apollo Client",
   "Strapi",
-  "Sanity",
   "Figma",
 ];
 
