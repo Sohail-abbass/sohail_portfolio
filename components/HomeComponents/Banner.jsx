@@ -31,6 +31,7 @@ const Banner = () => {
                               "React.Js Engineer",
                               "Next.Js Engineer",
                               "MERN Stack Developer",
+                              "AI Enthusiast",
                             ],
                             autoStart: true,
                             loop: true,
@@ -46,13 +47,7 @@ const Banner = () => {
                   </span>
                 </div>
               </div>
-              <Link
-                className="button"
-                target="_blank"
-                href="https://www.upwork.com/freelancers/~01c9dc528b3e2edcde"
-              >
-                Explore
-              </Link>
+
             </div>
             <div className="w-48 h-52 relative hidden md:block">
               <img
@@ -64,28 +59,7 @@ const Banner = () => {
           </div>
         </div>
 
-        {/* details in row */}
-        {/* <div className="grid grid-cols-2 gap-4 md:gap-0 md:flex items-center justify-between w-full px-4 xl:px-8 2xl:px-16">
-          <div className="flex items-center gap-x-1">
-            <span className="text-base md:text-lg text-Green font-bold">
-              14+
-            </span>
-            <span className="text-xs text-Snow">Completed Projects</span>
-          </div>
-
-          <div className="flex items-center gap-x-1">
-            <span className="text-base md:text-lg text-Green font-bold">
-              13+
-            </span>
-            <span className="text-xs text-Snow">Freelance Clients</span>
-          </div>
-          <div className="flex items-center gap-x-1">
-            <span className="text-base md:text-lg text-Green font-bold">
-              4+
-            </span>
-            <span className="text-xs text-Snow">Honors & Awards</span>
-          </div>
-        </div> */}
+       
       </div>
     </BannerLayout>
   );

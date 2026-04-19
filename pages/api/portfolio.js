@@ -43,6 +43,7 @@ const portfolio = [
   technologiesUsed: [
       { tech: "Python" },
       { tech: "Jupyter Notebook" },
+      {tech: "Pandas, Numpy,Matplotlib" },
       { tech: "Scikit-learn" },
       { tech: "TensorFlow" },
       { tech: "Streamlit" },
@@ -51,13 +52,18 @@ const portfolio = [
   {
     id: 3,
     projectName: "Finance Dashboard",
-    url: "https://github.com/Sohail-abbass/Finance-Dashboard",
+    url: "https://github.com/Sohail-abbass/fintechBackend",
     image: "projects/estra.png",
     projectDetail:
-"A financial dashboard that allows users to track income, manage expenses, and visualize financial data through an intuitive and user-friendly interface.",    technologiesUsed: [
+"Built a financial risk intelligence platform using React, Node.js, NestJS, PostgreSQL, and LLMs to analyze transaction data, assess user spending behavior, and generate risk-based loan eligibility insights for data-driven lending decisions.",    technologiesUsed: [
       { tech: "React JS" },
       { tech: "TypeScript" },
-      { tech: "Echart" },
+      { tech: "Next JS" },
+            { tech: "NEST JS" },
+
+                  { tech: "PostgreSQL" },
+      { tech: "LLMs" },
+
     ],
   },
  

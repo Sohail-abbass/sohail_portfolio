@@ -1,6 +1,6 @@
 export const NAME = "Muhammad Sohail";
 
-export const DESIGNATION = `Software Engineer | JavaScript | TypeScript| Python | React Js | Next Js | `;
+export const DESIGNATION = `Software Engineer | JavaScript | TypeScript| Python | React Js | Next Js | Node JS `;
 
 export const DETAILS = {
   Residence: "Islamabad, Punjab",
@@ -12,7 +12,7 @@ export const DETAILS = {
 export const SKILLS = [
     {
     title: "Javascript / Typescript",
-    level: "90%",
+    level: "95%",
   },
    {
     title: "Python",
@@ -27,41 +27,40 @@ export const SKILLS = [
     level: "80%",
   },
     {
-    title: "Pandas, Numpy, Matplotlib, TensorFlow, Scikit-learn",
-    level: "96%",
+    title: "Node Js, Express JS, Nest Js",
+    level: "80%",
   },
   {
-    title: "HTML, CSS",
-    level: "98%",
+    title: "MongoDB, FireBase, MySql",
+    level: "75%",
   },
   {
-    title: "Tailwind, Bootstrap, Module.css,Antd",
-    level: "96%",
-  },
- 
-  {
-    title: "Context, Redux, Redux toolkit,MobX",
+    title: "Redux, RTK, Tanstack Query, MobX",
     level: "90%",
   },
   {
     title: "Api's Integration",
     level: "90%",
   },
+    {
+    title: "Pandas, Numpy, Matplotlib, TensorFlow, Scikit-learn",
+    level: "96%",
+  },
+ 
   {
-    title: "Git, GitHub, Gitlab",
+    title: "Tailwind, Bootstrap, Module.css,Antd",
+    level: "96%",
+  },
+ 
+  
+  {
+    title: "Git, GitHub, CICD, Gitlab, Postman, Swagger, Strapi",
     level: "98%",
   },
-  {
-    title: "Node Js, Express JS",
-    level: "67%",
-  },
-  {
-    title: "MongoDB, FireBase, MySql",
-    level: "50%",
-  },
-  {
-    title: "Backend Developer",
-    level: "50%",
+
+   {
+    title: "n8n, make.com",
+    level: "90%",
   },
 
 ];
@@ -72,6 +71,15 @@ export const TECH_STACK = [
   "JavaScript",
   "TypeScript",
     "Python",
+    "Node Js",
+  "Express JS",
+  "Nest Js",
+  "MongoDB",
+  "MySql",
+  "CICD",
+  "AWS",
+  "FireBase",
+  "Tanstack Query",
   "CSS",
   "SCSS",
   "TailwindCSS",
@@ -85,9 +93,6 @@ export const TECH_STACK = [
   "Stripe Payment Integration",
   "Git",
   "GitHub",
-  "Node Js",
-  "Express JS",
-  "FireBase",
   "Postman",
   "Swagger",
   "Strapi",

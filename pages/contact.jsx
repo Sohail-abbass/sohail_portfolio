@@ -93,14 +93,14 @@ const Contact = () => {
           </Link>
         */}
 
-          <Link
+          {/* <Link
             className="hover:scale-125 ease-in-out duration-700 text-2xl sm:text-4xl mt-1"
             href="https://www.upwork.com/freelancers/~0129524a66b2f0a67f"
             target="_blank"
             rel="noreferrer"
           >
             <SiUpwork />
-          </Link>
+          </Link> */}
         </div>
 
         

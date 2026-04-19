@@ -35,10 +35,10 @@ const background = [
       {
         id: 1,
         title: "Enigmatix Global",
-        role: "Associate Software Engineer",
+        role: "Software Engineer (FullStack)",
         url: "https://enigmatixglobal.com/",
-        desc: "As a Frontend Engineer, I specialize in developing high-quality, dynamic, and scalable web applications using React.js and Next.js. My responsibilities include crafting user-centric interfaces, optimizing application performance, and leading frontend development initiatives. Collaborating closely with cross-functional teams, I ensure the delivery of exceptional digital experiences.",
-        year: "09/2024 - Present",
+        desc: "Full-Stack Developer work in SaaS products end-to-end. Owned critical product flows including onboarding and subscription systems, handling everything from UI to backend logic and payment integration.",
+        year: "06/2024 - Present",
         location: "Bahawalpur, Pakistan",
       },
         {
@@ -46,8 +46,8 @@ const background = [
         title: "Enigmatix Global",
         role: "MERN Stack Intern",
        url: "https://enigmatixglobal.com/",
-        desc: "During my frontend development internship, I gained hands-on experience in building full-stack web applications. The program included learning advanced JavaScript, React.js, Node.js, and MongoDB concepts. My focus was on developing scalable backend services and interactive frontend interfaces, further solidifying my understanding of modern web development practices.",
-        year: "04/2024 - 9/2023",
+        desc: "During my Web dev internship, I gained hands-on experience in building full-stack web applications. The program included learning advanced JavaScript, React.js, Node.js, and MongoDB concepts. My focus was on developing scalable backend services and interactive frontend interfaces, further solidifying my understanding of modern web development practices.",
+        year: "02/2024 - 05/2024",
         location: "Bahawalpur, Pakistan",
       },
       {
